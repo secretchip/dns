@@ -1,9 +1,10 @@
 ---
 name: Malicious / Abuse Domain Report
 about: Report a domain that should be blocked due to malicious or abusive activity
-title: "Malicious domain: <domain>"
-labels: ["malicious", "triage"]
-assignees: []
+title: 'Malicious domain: <domain>'
+labels: ''
+assignees: ''
+
 ---
 
 ## Reported domain
@@ -82,4 +83,3 @@ Who is affected and how:
 
 ## Additional context
 Any other information that may help validation.
-

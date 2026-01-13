@@ -1,9 +1,10 @@
 ---
 name: False Positive Report
 about: Report a legitimate domain that is incorrectly blocked
-title: "False positive: <domain>"
-labels: ["false-positive"]
-assignees: []
+title: 'False positive: <domain>'
+labels: ''
+assignees: ''
+
 ---
 
 ## Affected domain
@@ -73,4 +74,3 @@ How does this affect you?
 
 ## Additional context
 Anything else that may help reproduce or diagnose the issue.
-
