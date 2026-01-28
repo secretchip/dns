@@ -1,4 +1,6 @@
-DNS SecretChip Blacklists
+Secretchip Aegis
+
+Free Protective DNS Service
 
 This repository provides daily-updated blacklists of domains and IP addresses curated for DNS-level blocking of malicious or unwanted content. The lists include known ad, tracker, and malicious domains, as well as associated IP addresses. When used by a DNS server or network filter, these lists prevent devices from resolving and connecting to those sites. In other words, any DNS lookup for a listed domain returns a “blocked” response (such as NXDOMAIN or 0.0.0.0), so requests never reach the undesired host. This approach has been widely adopted to stop spam, ads, trackers and malware at the network level.
 
