@@ -1,3 +1,7 @@
+- name: planned
+  color: fbda04
+  description: Issue or feature is planned for future work
+
 - name: needs-triage
   color: 0e8a16
   description: Awaiting initial triage by maintainers
